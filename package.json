@@ -15,6 +15,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "chromatic": "npx chromatic --project-token b1ba3c87a748",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
